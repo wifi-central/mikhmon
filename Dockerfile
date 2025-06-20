@@ -4,7 +4,7 @@ LABEL Maintainer = "Hilman Maulana, Laksamadi Guko"
 LABEL Description = "MikroTik Hotspot Monitor (Mikhmon) is a web-based application (MikroTik API PHP class) to assist MikroTik Hotspot management."
 
 # Mikhmon Version 3 or 4
-ARG MIKHMON_VERSION=version-4
+ARG MIKHMON_VERSION=mikhmonv3
 
 # Setup document root
 WORKDIR /var/www/html
