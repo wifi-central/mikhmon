@@ -1,5 +1,5 @@
 # Startup from alpine
-FROM alpine:latest
+FROM alpine:3.16.2
 LABEL Maintainer = "Hilman Maulana, Laksamadi Guko"
 LABEL Description = "MikroTik Hotspot Monitor (Mikhmon) is a web-based application (MikroTik API PHP class) to assist MikroTik Hotspot management."
 
